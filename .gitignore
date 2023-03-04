@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Raw data
+data/mohtat2021-diagnostic-test-c20/
+data/weng2021-diagnostic-test-c20/

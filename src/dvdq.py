@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 from scipy import interpolate
 from scipy.optimize import fsolve
 
-import plotter as plotter
+import src.plotter as plotter
 
 
 def f_pos_ocv(sto):
