@@ -131,3 +131,7 @@ dmypy.json
 # Raw data
 data/mohtat2021-diagnostic-test-c20/
 data/weng2021-diagnostic-test-c20/
+
+# Outputs
+outputs/mohtat2021/
+outputs/weng2021/
