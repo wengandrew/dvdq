@@ -2,6 +2,8 @@
 
 Differential voltage (dV/dQ) analysis code.
 
+https://www.frontiersin.org/articles/10.3389/fenrg.2023.1087269/full
+
 ## Overview
 
 The code in this repository consists of two parts:
